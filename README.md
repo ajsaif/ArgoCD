@@ -586,19 +586,5 @@ You’ve learned how to:
 
 ---
 
-## 📺 Watch the Complete ArgoCD Video
 
-👉 [Learn ArgoCD & GitOps from Scratch for Continuous Deployment](https://youtu.be/sQTVWEJUV-w)
 
-### 📞 Contact Us
-**Phone:** [+91 91500 87745](tel:+919150087745)
-
-### 💬 Ask Your Doubts
-Join our **Discord Community**  
-👉 [Click here to connect](https://discord.gg/N7GBNHBdqw)
-
-### 📺 Explore More Learning
-Subscribe to my **YouTube Channel** – *Learn With Mithran*  
-🎯 [Watch Now](https://www.youtube.com/@LearnWithMithran)
-
----
